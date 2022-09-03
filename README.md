@@ -1,5 +1,5 @@
 # AsbraSMS
-Simple web frontend for smstools
+Simple web frontend for smstools gateway with API
 smsd folder must be a link to /var/spool/sms default smstools folder. Could be done with fstab:
 
 ```bash
